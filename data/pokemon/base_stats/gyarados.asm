@@ -1,7 +1,7 @@
 	db  95, 125,  79,  81,  60, 100 ; 540 BST
 	;   hp  atk  def  spd  sat  sdf
 
-	db WATER, FLYING
+	db WATER, DRAGON
 	db 45 ; catch rate
 	db 214 ; base exp
 	db NO_ITEM ; item 1
