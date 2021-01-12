@@ -10,7 +10,7 @@ if DEF(FAITHFUL)
 	db NORMAL, FLYING
 	db 90 ; catch rate
 else
-	db GHOST, FLYING
+	db DARK, FLYING
 	db 80 ; catch rate
 endc
 	db 162 ; base exp
