@@ -11,7 +11,7 @@ if DEF(FAITHFUL)
 	db 45 ; catch rate
 	db 194 ; base exp
 else
-	db ELECTRIC, DRAGON
+	db ELECTRIC, ELECTRIC
 	db 40 ; catch rate
 	db 204 ; base exp
 endc
