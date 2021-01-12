@@ -4,7 +4,7 @@
 if DEF(FAITHFUL)
 	db PSYCHIC, FLYING
 else
-	db FLYING, PSYCHIC
+	db FLYING, WATER
 endc
 	db 3 ; catch rate
 	db 220 ; base exp
