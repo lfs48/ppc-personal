@@ -2,11 +2,11 @@ if DEF(FAITHFUL)
 	db  35,  45, 160,  70,  30,  45 ; 385 BST
 	;   hp  atk  def  spd  sat  sdf
 else
-	db  35,  80, 160,  70,  30,  45 ; 420 BST
+	db  55,  80, 160,  70,  30,  45 ; 440 BST
 	;   hp  atk  def  spd  sat  sdf
 endc
 
-	db ROCK, GROUND
+	db ROCK, ROCK
 	db 45 ; catch rate
 if DEF(FAITHFUL)
 	db 108 ; base exp
