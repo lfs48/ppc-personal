@@ -1,7 +1,7 @@
 	db  40,  45,  35,  55,  30,  40 ; 245 BST
 	;   hp  atk  def  spd  sat  sdf
 
-	db POISON, FLYING
+	db DARK, FLYING
 	db 255 ; catch rate
 	db 54 ; base exp
 	db NO_ITEM ; item 1
