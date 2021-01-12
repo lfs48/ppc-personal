@@ -9,7 +9,7 @@ endc
 if DEF(FAITHFUL)
 	db GHOST, GHOST
 else
-	db GHOST, FAIRY
+	db GHOST, PSYCHIC
 endc
 	db 45 ; catch rate
 	db 187 ; base exp
